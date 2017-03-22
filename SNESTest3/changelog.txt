@@ -1,0 +1,21 @@
+﻿Changelog for Final Solution
+The world's first editor for SNES Final Fight
+
+ALPHA04
+=======
+-Fixed a fundamental error with the Metatile Editor, where the tile controls for the loMetatile panel would only work on a tile that was the last one the mouse hovered over (D'oh!)
+
+ALPHA03
+=======
+-Fixed the hiMetatile Browser not refreshing when exiting the Metatile Editor
+-Page selection boxes will now reset to default upon loading another ROM
+
+ALPHA02
+=======
+-Fixed an index boundary issue caused by the Level Assets combo box being populated while disabled
+-Corrected some spelling mistakes in the Help and About forms
+-Downgraded to .NET Framework 4.0 so Dr.Floppy can run it on his XP machine
+
+ALPHA01
+=======
+-First release
